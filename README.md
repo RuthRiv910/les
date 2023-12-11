@@ -1,10 +1,10 @@
-# Bubble Sorting Algorithm
+# Inland Empire Solar Sales Travel
 
-The purpose of this program is to sort no more than 5 values in ascending order.
+The purpose of this program is to determine the variations of the trip to the noted cities that the solar sales person must take to market the solar products, determine shortest, most low-cost trips for the marketing specialist, and provide the representation of the trips, low-cost and shortest paths, including matrices, adjacencies.
 
 ## Description
 
-The program reads a file with 5 values and goes through them, comparing 2 values at a time. If the preceeding value is larger, they swap places. This is done in a loop until all value are sorted smallest to largest.
+The program implements an E-Z Route application that provides functionality related to graph representation, route planning, and cost-effective path finding. The specific functionalities are divided into different choices within the menu-driven interface.
 
 ### Dependencies
 
@@ -12,10 +12,8 @@ The program reads a file with 5 values and goes through them, comparing 2 values
 
 ### Installing
 
-* Modifications will be needed for the numbers.asm file if you wish to change the values that are to be sorted.
+* User input will be needed to recieve output.
 
 ### Contributors
 
 * Leslie Garcia
-* Troung Pham
-* Ruth Rivera
